@@ -1,0 +1,79 @@
+Item do edital: Ingestão de dados estruturados
+
+
+**Ingestão de Dados Estruturados**
+
+A ingestão de dados estruturados envolve a importação de dados organizados em um formato padronizado para um sistema de gerenciamento de dados. Esses dados são caracterizados por:
+
+* **Estrutura:** Organização em colunas e linhas predefinidas
+* **Metadados:** Descrições da estrutura e dos tipos de dados
+* **Valores distintos:** Sem valores duplicados dentro de uma coluna
+
+**Processos de Ingestão**
+
+A ingestão geralmente envolve as seguintes etapas:
+
+* **Extração:** Recuperação de dados de fontes originais
+* **Limpeza:** Remoção de dados duplicados, tratamento de valores ausentes e correção de erros
+* **Transformação:** Alteração da estrutura ou formato dos dados para atender aos requisitos do sistema de destino
+* **Carregamento:** Importação dos dados limpos e transformados para o sistema de destino
+
+**Ferramentas de Ingestão**
+
+Várias ferramentas podem ser usadas para ingestão de dados estruturados, incluindo:
+
+* **ETL (Extração, Transformação, Carregamento):** Ferramentas que automatizam todo o processo de ingestão
+* **APIs de Ingestão:** Fornecidas por sistemas de destino para importação direta de dados
+* **Integrações Pré-Construídas:** Conexões pré-configuradas entre fontes de dados e sistemas de destino
+
+**Fórmulas**
+
+Existem várias fórmulas usadas para cálculos relacionados à ingestão de dados estruturados:
+
+* **Taxa de Extração:** Número de registros extraídos da fonte por unidade de tempo
+* **Taxa de Limpeza:** Número de registros limpos por unidade de tempo
+* **Taxa de Transformação:** Número de registros transformados por unidade de tempo
+* **Taxa de Carregamento:** Número de registros carregados no sistema de destino por unidade de tempo
+
+**Benefícios**
+
+A ingestão de dados estruturados oferece vários benefícios:
+
+* **Análise Consistente:** Dados padronizados permitem análises consistentes e precisas
+* **Tomada de Decisão Aprimorada:** Dados estruturados facilitam a descoberta de insights por meio de análises e inteligência de negócios
+* **Integridade de Dados:** A estrutura e os metadados ajudam a garantir a integridade e a confiança dos dados
+* **Eficiência:** Os processos automatizados de ingestão economizam tempo e esforço
+
+Item do edital: Ingestão de dados semiestruturados
+
+
+**Ingestão de Dados Semiestruturados**
+
+Dados semiestruturados são aqueles com uma estrutura flexível, permitindo valores ausentes, ordem variável e diferentes tipos de dados dentro de um mesmo campo. Ingerir esses dados requer abordagens especializadas:
+
+**Métodos de Ingestão:**
+
+* **Mapeamento de Esquemas:** Define um esquema flexível que mapeia os dados recebidos para os campos correspondentes.
+* **Análise de Texto:** Analisa os dados textuais usando processamento de linguagem natural (PNL), extraindo informações estruturadas.
+* **Modelos de Aprendizado de Máquina:** Utilizam algoritmos de aprendizado de máquina para inferir a estrutura dos dados com base em padrões observados.
+
+**Formatos de Dados Comuns:**
+
+* JSON (JavaScript Object Notation)
+* XML (Extensible Markup Language)
+* CSV (Valores Separados por Vírgulas)
+* LOG (Arquivos de Registro)
+
+**Desafios:**
+
+* Variação estrutural: os dados semiestruturados podem ter estruturas heterogêneas, dificultando a ingestão consistente.
+* Valores ausentes e nulos: dados ausentes ou nulos podem distorcer a interpretação e análise.
+* Tipos de dados inconsistentes: diferentes tipos de dados podem ser armazenados no mesmo campo, exigindo conversões de tipo.
+* Alta dimensionalidade: dados semiestruturados frequentemente têm um número elevado de campos, resultando em alta dimensionalidade.
+
+**Abordagens para Superar Desafios:**
+
+* **Pré-processamento de Dados:** Preparar os dados limpando, convertendo tipos e removendo dados redundantes.
+* **Gerenciamento de Valores Ausentes:** Imputar valores ausentes usando médias, medianas ou outros métodos apropriados.
+* **Normalização de Dados:** Padronizar valores para facilitar comparações e análises.
+* **Redução de Dimensionalidade:** Aplicar técnicas como análise de componentes principais (PCA) ou análise de agrupamento para reduzir a dimensionalidade e melhorar o desempenho analítico.

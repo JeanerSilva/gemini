@@ -1,2 +1,4 @@
 .chatbot/
 secret.py
+
+__pycache__
