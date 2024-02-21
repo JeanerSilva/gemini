@@ -1,0 +1,137 @@
+Ingestão de dados estruturados
+Ingestão de dados semiestruturados
+Ingestão de dados não estruturados
+Ingestão de dados em lote (batch)
+Ingestão de dados em streaming
+Armazenamento de big data
+Processamento massivo
+Processamento paralelo
+Processamento distribuído
+Soluções de big data: Arquitetura do ecossistema Spark
+Arquitetura de cloud computing para ciência de dados (AWS  Azure  GCP)
+Álgebra relacional e SQL (padrão ANSI)
+SQL Server
+PostgreSQL
+MySQL
+Bnco de dados NoSQL.   
+Banco de dados e formatos de arquivo orientado a colunas
+Banco de dados Parquet   
+MonetDB   
+duckDB.   
+Normalização numérica.   
+Discretização.   
+Tratamento de dados ausentes.   
+Tratamento de outliers e agregações.   
+Tratamento de dados: Matching
+Deduplicação.   
+Data cleansing.   
+Enriquecimento de dados.   
+Desidentificação de dados sensíveis.   
+Algoritmos fuzzy matching  
+Algoritmos stemming.   
+Visualização e análise exploratória de dados.   
+Linguagem de programação R.   
+Linguagem de programação Python.   
+Linguagem de programação Scala.  
+Programação funcional.   
+Programação orientada a objetos.   
+Classes de objetos e suas propriedades (vetores  listas  data frames).   
+Manipulação e tabulação de dados com numpy   
+Manipulação e tabulação de dados com pandas   
+Manipulação e tabulação de dados com tidyverse 
+Manipulação e tabulação de dados com data.table  
+Visualização de dados com ggplot 
+Visualização de dados com matplotlib.   
+Paralelização de rotinas de ciência de dados.   
+Probabilidade e probabilidade condicional.   
+Independência de eventos 
+teorema de Bayes  
+teorema da probabilidade total.   
+Variáveis aleatórias e funções de probabilidade.   
+Principais distribuições de probabilidade discretas e contínuas: distribuição uniforme   
+Distribuições de probabilidade discretas e contínuas: distribuição binomial   
+Distribuições de probabilidade discretas e contínuas: distribuição Poisson  
+Distribuições de probabilidade discretas e contínuas: distribuição normal     
+Medidas de tendência central  
+Medidas de dispersão  
+Medidas de correlação.  
+Teorema do limite central.   
+Regra empírica (regra de três sigma) da distribuição normal.   
+Diagramas causais: grafos acíclicos dirigidos   
+Diagramas causais: variáveis confundidoras   
+Diagramas causais: variáveis colisoras  
+Diagramas causais: variáveis de mediação.   
+Métodos e técnicas de identificação causal: Métodos experimentais RCT  
+Métodos e técnicas de identificação causal: métodos de identificação quase-experimental.   
+Tipos de viés no processo gerador dos dados e soluções: Sampling bias   
+Tipos de viés no processo gerador dos dados e soluções: Selection bias   
+Tipos de viés no processo gerador dos dados e soluções: Attrition bias   
+Tipos de viés no processo gerador dos dados e soluções: Reporting bias   
+Tipos de viés no processo gerador dos dados e soluções: Measurement bias.   
+Modelos probabilísticos gráficos: cadeias de Markov    
+Modelos probabilísticos gráficos: filtros de Kalman    
+Modelos probabilísticos gráficos: Redes bayesianas.   
+Testes de hipóteses: teste-z    
+Testes de hipóteses: teste-t   
+Testes de hipóteses: valor-p    
+Testes de hipóteses: testes para uma amostra    
+Testes de hipóteses: testes de comparação de duas amostras    
+Testes de hipóteses: teste de normalidade (chi square)    
+Testes de hipóteses: intervalos de confiança.   
+Histogramas e curvas de frequência    
+Diagrama boxplot    
+Avaliação de outliers.   
+Técnicas de classificação: Naive Bayes    
+Técnica de classificação Regressão logística    
+Técnica de classificação Redes neurais artificiais    
+Técnica de classificação Árvores de decisão (algoritmos ID3 e C4.5)    
+Técnica de classificação florestas aleatórias (random forest)    
+Técnica de classificação Máquinas de vetores de suporte (SVM – support vector machines)    
+Técnica de classificação K vizinhos mais próximos (KNN – K-nearest neighbours).   
+Técnica de classificação  
+Avaliação de modelos de classificação: treinamento    
+Avaliação de modelos de classificação: teste    
+Avaliação de modelos de classificação: validação    
+Avaliação de modelos de classificação: validação cruzada    
+Avaliação de modelos de classificação: métricas de avaliação - matriz de confusão    
+Avaliação de modelos de classificação: acurácia    
+Avaliação de modelos de classificação: precisão    
+Avaliação de modelos de classificação: revocação    
+Avaliação de modelos de classificação: F1-score   
+Avaliação de modelos de classificação: curva ROC.   
+Técnicas de regressão: Redes neurais para regressão    
+Árvores de decisão para regressão    
+Máquinas de vetores de suporte para regressão   
+Ajuste de modelos dentro e fora de amostra e overfitting.   
+Técnicas de agrupamento:   
+Agrupamento por partição    
+Agrupamento por densidade  
+Agrupamento hierárquico.   
+Técnica de redução de dimensionalidade: Seleção de características (feature selection)    
+Técnicas de redução de dimensionalidade: análise de componentes principais (PCA – principal component analysis).   
+Processamento de linguagem natural: Normalização textual  
+Processamento de linguagem natural: stop words   
+Processamento de linguagem natural: estemização   
+Processamento de linguagem natural: lematização  
+Processamento de linguagem natural: análise de frequência de termos    
+Rotulação de partes do discurso: part-of-speech tagging    
+Modelos de representação de texto: N-gramas    
+modelos vetoriais de palavras: CBOW    
+modelos vetoriais de palavra: Skip-Gram   
+modelos vetoriais de palavra: GloVe   
+modelos vetoriais de documentos: booleano    
+modelos vetoriais de documentos: TF    
+modelos vetoriais de documentos: TF-IDF    
+modelos vetoriais de documentos: média de vetores de palavras   
+modelos vetoriais de documentos: Paragraph Vector    
+Métricas de similaridade textual - similaridade do cosseno    
+Métricas de similaridade textual distância euclidiana    
+Métricas de similaridade textual similaridade de Jaccard    
+Métricas de similaridade textual distância de Manhattan   
+Métricas de similaridade textual coeficiente de Dice.   
+Redes neurais convolucionais
+Redes neurais recorrentes.   
+Scikit-learn    
+TensorFlow    
+PyTorch    
+Keras

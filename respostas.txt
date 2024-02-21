@@ -1,0 +1,97 @@
+Item do edital: processamento massivo
+
+
+**Processamento Massivo**
+
+O processamento massivo é uma abordagem de computação que envolve o processamento simultâneo de grandes quantidades de dados em sistemas distribuídos. Ele é usado para lidar com conjuntos de dados tão grandes que são impossíveis de serem processados por um único computador.
+
+**Características do Processamento Massivo:**
+
+* **Dados Massivos:** Envolve conjuntos de dados extremamente grandes que podem exceder terabytes ou até mesmo petabytes.
+* **Processamento Paralelo:** Divide os dados em partes menores e as processa simultaneamente em vários nós ou máquinas.
+* **Tolerância a Falhas:** Projetado para continuar operando mesmo quando alguns nós falham.
+* **Escalabilidade:** Pode ser dimensionado para lidar com volumes crescentes de dados e cargas de trabalho.
+
+**Quadros de Processamento Massivo:**
+
+Os quadros de processamento massivo populares incluem:
+
+* Apache Hadoop
+* Apache Spark
+* Apache Flink
+* Apache Hive
+
+**Fórmulas:**
+
+**Lei de Amdahl:**
+
+```
+Aceleração = 1 / (1 - P + P / N)
+```
+
+onde:
+
+* P é a porção da tarefa que pode ser paralelizada
+* N é o número de nós
+
+**Força bruta:**
+
+O processamento massivo pode ser usado para abordar problemas complexos por meio do processamento bruto de todas as possibilidades.
+
+**Vantagens do Processamento Massivo:**
+
+* Processamento mais rápido de grandes conjuntos de dados
+* Economia de custos em comparação com infraestruturas de computação de alto desempenho
+* Escalabilidade para lidar com cargas de trabalho crescentes
+* Tolerância a falhas para garantir a disponibilidade de dados
+
+**Aplicações do Processamento Massivo:**
+
+* Análise de dados de negócios
+* Processamento de linguagem natural
+* Computação científica
+* Análise de sequenciamento genético
+* Aprendizado de máquina
+
+Item do edital: processamento paralelo
+
+**Processamento Paralelo**
+
+O processamento paralelo é o uso de vários processadores ou núcleos de CPU para executar tarefas simultaneamente, dividindo um problema em partes menores e processando-as em paralelo.
+
+**Vantagens:**
+
+* **Maior velocidade de processamento:** Tarefas podem ser concluídas mais rapidamente ao serem divididas e executadas simultaneamente.
+* **Escala:** Pode-se adicionar mais processadores ou núcleos para aumentar a capacidade de processamento.
+* **Eficiência energética:** O processamento paralelo pode reduzir o consumo de energia distribuindo a carga de trabalho por vários processadores.
+
+**Desafios:**
+
+* **Programação complexa:** Coordenar e sincronizar o processamento de tarefas paralelas pode ser desafiador.
+* **Comunicação entre processadores:** Os processadores precisam se comunicar efetivamente para trocar dados e resultados.
+* **Conformidade:** Nem todos os problemas são adequados para processamento paralelo (por exemplo, problemas com dependências de dados).
+
+**Modelos de Processamento Paralelo:**
+
+* **Compartilhamento de Memória (SMP):** Vários processadores compartilham a mesma memória principal.
+* **Memória Distribuída (DSM):** Cada processador possui sua própria memória privada, e os dados são compartilhados por meio de comunicação por rede.
+
+**Lei de Amdahl:**
+
+A Lei de Amdahl estima a aceleração de um programa paralelo:
+`A = 1 / (f + (1 - f) / n)`
+onde:
+* `A` é a aceleração
+* `f` é a fração do programa que não pode ser paralelizada
+* `n` é o número de processadores
+
+**Aplicações:**
+
+O processamento paralelo é usado em uma ampla gama de aplicações, incluindo:
+
+* Computação científica
+* Simulações
+* Reconhecimento de padrões
+* Processamento de dados em tempo real
+* Jogos de computador
+

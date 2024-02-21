@@ -1,0 +1,2 @@
+processamento massivo
+processamento paralelo
