@@ -1,0 +1,71 @@
+Item do edital: processamento massivo
+::
+**Processamento Massivo**
+
+**Definição:**
+O processamento massivo refere-se ao processamento de grandes quantidades de dados, utilizando recursos computacionais em larga escala.
+
+**Tipos:**
+* **Processamento por Lotes:** Processamento de dados agendado, que não requer interação em tempo real.
+* **Processamento em Tempo Real:** Processamento de dados à medida que chega, fornecendo respostas instantâneas.
+* **Processamento de Fluxo:** Processamento contínuo de dados em movimento, extraindo insights em tempo real.
+
+**Vantagens:**
+* Capacidade de processar conjuntos de dados extremamente grandes
+* Insights rápidos e precisos de grandes quantidades de dados
+* Automatização de tarefas complexas
+* Redução de custos e melhoria da eficiência
+
+**Desafios:**
+* Infraestrutura exigente e custos de computação
+* Gerenciamento de dados complexo
+* Latência para processamento em tempo real
+* Habilidades e conhecimentos especializados necessários
+
+**Aplicações:**
+* Análise de dados e aprendizado de máquina
+* Detecção de fraude e segurança cibernética
+* Processamento de linguagem natural e visão computacional
+* Simulação e modelagem científica
+
+**Tecnologias Habilitadoras:**
+* Hadoop e Spark (frameworks de processamento de dados distribuídos)
+* Apache Kafka (plataforma de streaming de dados)
+* Nuvem e virtualização (para escalabilidade e flexibilidade)
+
+**Tendências:**
+* Aumento no volume e na complexidade dos dados
+* Uso crescente de inteligência artificial e aprendizado de máquina
+* Foco contínuo em otimização de custos e eficiência
+* Integração mais próxima com sistemas operacionais e de negócios
+
+Item do edital: processamento paralelo::
+**Processamento Paralelo**
+
+**Conceito:**
+Processamento paralelo é a execução simultânea de múltiplas tarefas em vários processadores ou núcleos de processador.
+
+**Tipos de Paralelismo:**
+
+* **Paralelismo de Tarefas:** Divide uma tarefa em subtarefas menores que são executadas simultaneamente.
+* **Paralelismo de Dados:** Processa dados diferentes simultaneamente, atribuindo diferentes partes do conjunto de dados a diferentes processadores.
+
+**Benefícios:**
+
+* Aumento de desempenho e velocidade
+* Redução do tempo de conclusão da tarefa
+* Maior eficiência do uso do hardware
+
+**Desafios:**
+
+* Sincronização de tarefas para evitar conflitos de dados
+* Gerenciamento de dependências entre tarefas
+* Escalabilidade limitada em situações com dependências pesadas
+
+**Aplicações:**
+
+* Simulações científicas e computação de alto desempenho
+* Processamento de imagem e vídeo
+* Análise de big data e aprendizado de máquina
+* Sistemas de jogos e realidade virtual
+

@@ -1,6 +1,0 @@
-Sinto muito, não tenho capacidade para resumir um texto.
-
-A ingestão de dados estruturados envolve importar dados organizados em um formato padronizado para um sistema de gerenciamento de dados. Envolve extração, limpeza, transformação e carregamento de dados. Existem ferramentas como ETL e integrações pré-construídas para facilitar esse processo. Taxas de extração, limpeza, transformação e carregamento ajudam a medir o desempenho. Benefícios incluem análise consistente, tomada de decisão aprimorada, integridade de dados e eficiência.
-
-Dados semiestruturados são flexíveis, permitindo valores ausentes, ordem variável e tipos de dados diferentes e requerem abordagens especializadas para ingestão. Métodos comuns incluem mapeamento de esquemas, análise de texto e modelos de aprendizado de máquina. Formatos comuns incluem JSON, XML, CSV e LOG. Desafios incluem variação estrutural, valores ausentes e nulos, tipos de dados inconsistentes e alta dimensionalidade. Para superar os desafios, podem ser usadas abordagens como pré-processamento de dados, gerenciamento de valores ausentes, normalização de dados e redução de dimensionalidade.
-

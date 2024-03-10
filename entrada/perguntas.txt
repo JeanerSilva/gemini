@@ -1,0 +1,170 @@
+Contas nacionais em macroeconomia. 
+Fórmulas das Contas nacionais em macroeconomia. 
+Agregados monetários em macroeconomia.   
+Fórmulas dos Agregados monetários em macroeconomia.  
+Multiplicador monetário em macroeconomia. 
+Criação e destruição de moeda em macroeconomia.  
+Contas do sistema monetário em macroeconomia.  
+Balanço de pagamentos em macroeconomia.
+Fórmulas do balanço de pagamentos em macroeconomia.  
+Estrutura de mercado em microeconomia.  
+Formas de organização da atividade econômica em microeconomia.
+O papel dos preços na microeconomia.
+Custo de oportunidade em microeconomia.
+Fórmulas de custo de oportunidade em microeconomia. 
+Fronteiras das possibilidades de produção em microeconomia.  
+Fórmulas da fronteira de possiblidades de produção em microeconomia.
+Oferta em microeconomia.
+Demanda em microeconomia.
+Oferta e demanda em microeconomia  
+Curvas de indiferença em microeconomia.  
+Restrição orçamentária em microeconomia.  
+Equilíbrio do consumidor em microeconomia.  
+Efeitos preço, renda e substituição em microeconomia.  
+Curva de demanda em microeconomia.  
+Elasticidade da demanda em microeconomia.
+Fórmulas de cada tipo de elasticidade da demanda em microeconomia. 
+Aprendizado de Máquina.  
+Deep learning.  
+Processamento de linguagem natural. 
+Big data.  
+Qualidade de Dados em ciência de dados e big data.  
+Aprendizado de máquina supervisionado.
+Aprendizado de máquina não supervisionado.
+Aprendizado de máquina semi supervisionado.
+Aprendizado de máquina por reforço.
+Aprendizado de máquina por Transferência.  
+Grandes Modelos de Linguagem (LLM). 
+IA Generativa.  
+Redes Neurais.  
+Gestão de código em MLOps
+Treinamento em MLOps
+Implantação em MLOps
+Monitoramento e versionamento de modelos em MLOps
+Automação do ciclo de produção em MLOps.
+Transparência  enquanto Governança e Ética na IA.
+Responsabilidade enquanto Governança e Ética na IA.
+Explicabilidade enquanto Governança e Ética na IA.
+Privacidade enquanto Governança e Ética na IA.
+Segurança enquanto Governança e Ética na IA.
+Viés enquanto Governança e Ética na IA. 
+Gestão de Identidades e Acesso em segurança da informação. 
+Autenticação e Autorização em segurança da informação. 
+Single Sign-On (SSO) 
+Security Assertion Markup Language (SAML), 
+OAuth2 
+OpenId Connect.  
+Privacidade e segurança por padrão.  
+Principais tipos de ataques e vulnerabilidades em segurança da informação.  
+Controles e testes de segurança para aplicações Web e Web Services.  
+Múltiplos Fatores de Autenticação (MFA).  
+Firewall enquanto solução para Segurança da Informação.
+Intrusion Detection System (IDS) enquanto solução para Segurança da Informação.
+Intrusion Prevention System (IPS) enquanto solução para Segurança da Informação.
+Security Information and Event Management (SIEM) enquanto solução para Segurança da Informação.
+
+Proxy enquanto solução para Segurança da Informação.
+Identity Access Management (IAM) enquanto solução para Segurança da Informação.
+Privileged Access Management (PAM) enquanto solução para Segurança da Informação.
+Antivírus enquanto solução para Segurança da Informação.
+Antispam enquanto solução para Segurança da Informação.
+Frameworks de segurança da informação e segurança cibernética, 
+MITRE ATT&CK. 
+CIS Controls enquanto solução para Segurança da Informação.
+NIST CyberSecurity Framework (NIST CSF).  
+Tratamento de Incidentes Cibernéticos.  
+Assinatura e certificação digital
+Criptografia na segurança da informação. 
+Proteção de dados em trânsito para segurança da informação.
+Proteção de dados em repouso para segurança da informação.  
+Segurança em nuvens e de contêineres. 
+Protocolo HTTP enquanto arquitetura de sistemas web
+Protocolo HTTP/2 enquanto arquitetura de sistemas web
+gRPC enquanto arquitetura de sistemas web
+WebSockets enquanto arquitetura de sistemas web
+TLS enquanto arquitetura de sistemas web
+Servidores proxy enquanto arquitetura de sistemas web
+Cache enquanto arquitetura de sistemas web
+DNS enquanto arquitetura de sistemas web
+Balanceamento de carga enquanto arquitetura de sistemas web
+Tolerância a falhas enquanto arquitetura de sistemas web 
+Escalabilidade em sistemas web.  
+Princípios e práticas de DevOps 
+Princípios e práticas de DevSecOps
+Princípios e práticas de integração e entrega contínuas (CI/CD).  
+Técnicas de desenvolvimento seguro de sistemas.  
+Testes unitários de software
+Testes de Integração de software
+Test Driven Design TDD
+Behaivoral Driven Design - BDD. 
+Orquestração de serviços em arquiteturas em camadas baseada em serviço
+API gateway para arquiteturas em camadas baseada em serviço
+Orientação a eventos para arquiteturas em camadas baseada em serviço
+Modelo Cliente-servidor para arquiteturas em camadas baseada em serviço
+Modelo Serverless para arquiteturas em camadas baseada em serviço
+Práticas de UX design
+Práticas de UI design.  
+Programação assíncrona.  
+RESTful
+GraphQL.  
+Web services.  
+Padrões GoF 
+Padrões GRASP.  
+Uso do Git.  
+Transações distribuídas para desenvolvimento de sistemas.  
+Distributed Ledger Technology (DLT)
+Conceitos de infraestrutura como código e automação de infraestrutura de TI.  
+Docker
+Kubernetes 
+Boas práticas para infraestrutura e orquestração de containers.  
+DNS como serviços de Rede Microsoft Windows Server
+DHCP como serviços de Rede Microsoft Windows Server
+Radius como serviços de Rede Microsoft Windows Server
+Autenticação como serviços de Rede Microsoft Windows Server
+Certificados como serviços de Rede Microsoft Windows Server
+Active Directory (AD) como serviços de Rede Microsoft Windows Server  
+Monitoração de infraestrutura de rede
+Observabilidade de infraetrutura de rede 
+Análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging
+Nagios
+Prometheus
+Grafana
+Elasticsearch
+Kibana
+Application Performance Monitoring (APM) 
+Protocolos da camada de aplicação.
+Simple Mail Transfer Protocol (SMTP). 
+Hypertext Transfer Protocol (HTTP). 
+Hypertext Transfer Protocol (HTTPS). 
+SSL/TLS, Lightweight Directory Access Protocol (LDAP). 
+Network File System (NFS). 
+Server Message Block (SMB).  
+Tolerância a falhas e continuidade de operação na infraestrutura de TIC.  
+Implantação e administração de serviços de nuvem
+IaaS
+PaaS
+SaaS.  
+Administração e gerenciamento de ambientes de virtualização.  
+Administração e operação do Microsoft Windows Server
+Administração e operação do Linux.  
+Pontos comuns e divergentes entre LAN, WAN e SDN.  
+Rede LAN
+Rede WAN
+Rede SDN.  
+Puppet enquanto ferramentas de orquestração e automação de infraestrutura 
+Ansible enquanto ferramentas de orquestração e automação de infraestrutura 
+Sistema Gerenciador de Banco de Dados
+Diferenças SQL e NOSQL  
+Modelagens de dados relacional, 
+Modelagens de dados multidimensional
+Modelagens de dados nosql. 
+Procedural Language SQL.  
+Structured Query Language
+DataWarehouse. 
+DataMart. 
+DataLake. 
+DataMesh. 
+Kanban.  
+Scrum.  
+Governança de Dados.  
+ITIL v4.
