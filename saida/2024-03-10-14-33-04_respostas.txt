@@ -1,0 +1,912 @@
+Item do edital: Raciocínio lógico.::
+**Raciocínio Lógico**
+
+O raciocínio lógico é a capacidade de pensar de forma clara e racional para chegar a conclusões válidas. Envolve o uso de princípios lógicos e regras de inferência para extrair novas informações de informações fornecidas.
+
+**Princípios Lógicos**
+
+* **Lei da identidade:** Uma afirmação é idêntica a si mesma.
+* **Lei da não contradição:** Uma afirmação não pode ser verdadeira e falsa ao mesmo tempo.
+* **Lei do terceiro excluído:** Uma afirmação é verdadeira ou falsa, não pode ser ambas ou nenhuma.
+* **Modus ponens:** Se P implica Q e P é verdadeiro, então Q é verdadeiro.
+* **Modus tollens:** Se P implica Q e Q é falso, então P é falso.
+
+**Tipos de Raciocínio Lógico**
+
+* **Raciocínio dedutivo:** Derivar conclusões lógicas de premissas dadas.
+* **Raciocínio indutivo:** Generalizar a partir de observações específicas para conclusões mais amplas.
+* **Raciocínio abdutivo:** Inferir a melhor explicação possível para um conjunto de observações.
+
+**Aplicações do Raciocínio Lógico**
+
+* Resolução de problemas
+* Tomada de decisão
+* Argumentação e persuasão
+* Ciência e pesquisa
+* Inteligência artificial
+
+**Melhoria do Raciocínio Lógico**
+
+* Envolvimento em exercícios de raciocínio lógico
+* Aprenda e pratique princípios lógicos
+* Desafie preconceitos e suposições
+* Procure feedback e orientação
+
+Item do edital: Estruturas lógicas.::
+**Estruturas Lógicas**
+
+As estruturas lógicas são usadas para organizar e representar informações de forma hierárquica e estruturada, permitindo a extração eficiente de insights e a tomada de decisão. Existem vários tipos comuns de estruturas lógicas:
+
+**Árvore de Decisão:**
+* Representa uma série de perguntas e decisões sequenciais.
+* Cada nó é um teste ou decisão, e cada ramo é um resultado possível.
+* Usado para modelagem de previsão, tomada de decisão e classificação.
+
+**Rede Semântica:**
+* Conecta conceitos e ideias por meio de relacionamentos e hierarquias.
+* Representa o conhecimento de forma semântica, facilitando a recuperação e o raciocínio.
+
+**Grafo:**
+* Coleção de nós conectados por arestas.
+* Pode representar relacionamentos, fluxos ou outras estruturas de dados complexas.
+* Usado em análise de redes, otimização e processamento de linguagem natural.
+
+**Tabela de Verdade:**
+* Lista todas as combinações possíveis de valores de entrada e os resultados correspondentes.
+* Mostra a relação lógica entre entradas e saídas e é usada em lógica digital e álgebra booleana.
+
+**Expressão Regular:**
+* Padrão que descreve um conjunto de strings.
+* Usado para validação de dados, pesquisa de padrões e processamento de texto.
+
+**As estruturas lógicas são essenciais para:**
+
+* Organizar e estruturar grandes quantidades de dados
+* Representar relacionamentos e hierarquias
+* Proporcionar insights e facilitar a tomada de decisão
+* Automatizar tarefas complexas e melhorar a eficiência
+* Fornecer base para sistemas baseados em conhecimento e inteligência artificial
+
+Item do edital: Analogias, inferências, deduções e conclusões como argumentação lógica::
+**Analogias**
+
+* Comparações entre dois ou mais objetos ou conceitos com base em semelhanças ou relações.
+* São usadas para ilustrar ideias complexas, esclarecer pontos e fortalecer argumentos.
+* Exemplo: "A mente é como um computador: ambos processam informações."
+
+**Inferências**
+
+* Extração de novas informações implícitas de informações fornecidas.
+* Baseadas em suposições lógicas e evidências.
+* Exemplo: Se chove, a rua fica molhada. A rua está molhada. Portanto, está chovendo.
+
+**Deduções**
+
+* Conclusões lógicas e inevitáveis baseadas em premissas verdadeiras.
+* Usam o raciocínio dedutivo para chegar a novas informações.
+* Exemplo: Todos os gatos são mamíferos. O meu animal de estimação é um gato. Portanto, o meu animal de estimação é um mamífero.
+
+**Conclusões**
+
+* Afirmações finais de um argumento que resumem os pontos principais e fornecem uma resposta ou opinião.
+* Baseadas em evidências, analogias e inferências.
+* Exemplo: Com base nas evidências e analogias apresentadas, concluo que o acusado é culpado.
+
+**Papel na Argumentação Lógica**
+
+Analogias, inferências, deduções e conclusões são ferramentas essenciais para construir argumentos lógicos e convincentes. Elas permitem:
+
+* Esclarecer ideias complexas
+* Estabelecer relações entre conceitos
+* Tirar conclusões válidas de premissas
+* Fornecer evidências para apoiar afirmações
+* Conduzir a argumentos bem fundamentados e persuasivos
+
+Item do edital: Lógica sentencial (ou proposicional).::
+**Tópicos em Lógica Sentencial**
+
+* **Conectivos Lógicos:**
+    * Conjunção (∧), disjunção (∨), negação (¬), condicional (→), bicondicional (↔)
+* **Formas de Proposição:**
+    * Formas atômicas (p, q, r, ...)
+    * Formas complexas (combinações de formas atômicas usando conectivos)
+* **Valor de Verdade:**
+    * As proposições podem ser verdadeiras ou falsas
+* **Tabela de Verdade:**
+    * Tabela que mostra os valores de verdade de uma proposição composta para todas as combinações possíveis de valores de verdade de suas proposições componentes
+* **Tautologia e Contradição:**
+    * Tautologia: proposição sempre verdadeira
+    * Contradição: proposição sempre falsa
+* **Leis de De Morgan:**
+    * ¬(p ∨ q) ≡ ¬p ∧ ¬q
+    * ¬(p ∧ q) ≡ ¬p ∨ ¬q
+* **Formas Disjuntivas e Conjuntivas Normais:**
+    * Formas canônicas para expressar proposições
+* **Implicações e Equivalências Lógicas:**
+    * p → q é equivalente a ¬p ∨ q
+    * p ↔ q é equivalente a (p → q) ∧ (q → p)
+
+**Aplicações:**
+
+* Ciência da computação (circuitos lógicos, programação)
+* Matemática (teoria dos conjuntos, álgebra)
+* Filosofia (argumentação, raciocínio)
+
+Item do edital: Proposições lógicas simples::
+**Proposições Lógicas Simples**
+
+Proposições lógicas são afirmações que podem ser verdadeiras ou falsas. Uma proposição lógica simples é uma proposição que não pode ser decomposta em proposições menores. Exemplos:
+
+* "Está chovendo."
+* "Paris é a capital da França."
+* "O sol não é uma estrela."
+
+**Operadores Lógicos**
+
+Operadores lógicos combinam proposições simples para formar novas proposições. Os operadores lógicos comuns incluem:
+
+* **Conjunção (E):** Verdadeira se ambas as proposições forem verdadeiras.
+* **Disjunção (OU):** Verdadeira se pelo menos uma das proposições for verdadeira.
+* **Negação (NÃO):** Verdadeira se a proposição original for falsa.
+
+**Valor Verdade**
+
+O valor verdade de uma proposição é verdadeiro ou falso. O valor verdade de uma proposição lógica simples é determinado pelo seu conteúdo. Por exemplo, "Paris é a capital da França" é verdadeira, enquanto "O sol não é uma estrela" é falsa.
+
+**Formas Lógicas**
+
+Os operadores lógicos podem ser combinados para formar formas lógicas. As formas lógicas comuns incluem:
+
+* **Modus Ponens:** Se P, então Q. P. Portanto, Q.
+* **Modus Tollens:** Se P, então Q. Não Q. Portanto, não P.
+* **Silogismo Hipotético:** Se P, então Q. Se Q, então R. Portanto, se P, então R.
+
+Item do edital: Proposições lógicas compostas.::
+**Proposições Lógicas Compostas**
+
+As proposições lógicas compostas combinam proposições simples (átomos) usando conectivos lógicos para formar sentenças mais complexas. Os conectivos lógicos comuns incluem:
+
+* **Conjunção (E):** Ambas as proposições devem ser verdadeiras para a proposição composta ser verdadeira.
+* **Disjunção (OU):** Pelo menos uma das proposições deve ser verdadeira para a proposição composta ser verdadeira.
+* **Negação (NÃO):** Inverte a veracidade da proposição.
+* **Implicação (SE...ENTÃO):** Se a primeira proposição for verdadeira, então a segunda também deve ser.
+* **Equivalência (SE E SOMENTE SE):** Ambas as proposições devem ser verdadeiras ou ambas devem ser falsas.
+
+**Propriedades das Proposições Compostas**
+
+As proposições compostas têm as seguintes propriedades:
+
+* **Comutatividade:** A ordem dos operandos não afeta o valor da proposição para conjunção, disjunção e equivalência.
+* **Associatividade:** O agrupamento de operandos não afeta o valor da proposição para conjunção, disjunção e equivalência.
+* **Distributividade:** A conjunção distribui pela disjunção e vice-versa.
+* **Identidade:** Verdadeira e Falsa são os elementos identidade para conjunção e disjunção, respectivamente.
+
+**Formas Normais das Proposições**
+
+As proposições compostas podem ser expressas em uma das seguintes formas normais:
+
+* **Forma Normal Conjuntiva (FNC):** Uma conjunção de cláusulas, onde cada cláusula é uma disjunção de literais (átomos ou suas negações).
+* **Forma Normal Disjuntiva (FND):** Uma disjunção de cláusulas, onde cada cláusula é uma conjunção de literais.
+
+Essas formas são úteis para analisar e simplificar proposições lógicas.
+
+Item do edital: Equivalências lógicas.::
+**Equivalências Lógicas**
+
+Equivalências lógicas são relações entre proposições que possuem o mesmo valor de verdade em todas as interpretações possíveis. Essas equivalências são fundamentais para simplificar expressões lógicas e provar argumentos.
+
+**Principais Equivalências**
+
+* **Comutatividade:** p ∧ q ≡ q ∧ p
+* **Associatividade:** (p ∧ q) ∧ r ≡ p ∧ (q ∧ r)
+* **Distributividade:** p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)
+* **Negação da Conjunção:** ¬(p ∧ q) ≡ ¬p ∨ ¬q
+* **Negação da Disjunção:** ¬(p ∨ q) ≡ ¬p ∧ ¬q
+* **Implicação:** p → q ≡ ¬p ∨ q
+* **Equivalência:** p ≡ q ≡ (p → q) ∧ (q → p)
+* **Identidade:** p ∨ ¬p ≡ V
+* **Contradição:** p ∧ ¬p ≡ F
+
+**Aplicações**
+
+As equivalências lógicas são amplamente utilizadas em:
+
+* **Simplificação de expressões:** Usando equivalências para substituir sub-expressões por outras mais simples.
+* **Prova de argumentos:** Mostrando que as premissas de um argumento implicam logicamente a conclusão.
+* **Projeto de circuitos lógicos:** Implementando operadores lógicos usando equivalências.
+* **Inteligência Artificial:** Representando e raciocinando com conhecimento usando lógica.
+
+**Exemplo**
+
+Considere a seguinte expressão:
+
+```
+¬(p → q)
+```
+
+Usando a equivalência da implicação, podemos reescrever esta expressão como:
+
+```
+¬(¬p ∨ q)
+```
+
+Aplicando a equivalência da negação da disjunção, obtemos:
+
+```
+p ∧ ¬q
+```
+
+Item do edital: Leis de Morgan::
+**Leis de Morgan**
+
+**Definição:**
+
+As Leis de Morgan são regras lógicas que fornecem uma relação entre a negação de conjunções e disjunções.
+
+**Primeira Lei:**
+
+A negação de uma conjunção é igual à disjunção das negações dos termos individuais.
+¬(p ∧ q) = ¬p ∨ ¬q
+
+**Segunda Lei:**
+
+A negação de uma disjunção é igual à conjunção das negações dos termos individuais.
+¬(p ∨ q) = ¬p ∧ ¬q
+
+**Aplicações:**
+
+* Simplificar expressões lógicas
+* Determinar a validade de argumentos
+* Projetar circuitos lógicos
+
+**Exemplo:**
+
+* Negação da conjunção: ¬(x > 0 ∧ y < 5)
+= ¬x > 0 ∨ ¬y < 5
+
+* Negação da disjunção: ¬(a = 1 ∨ b = 2)
+= ¬a = 1 ∧ ¬b = 2
+
+Item do edital: Noções de estatística.::
+**Noções Fundamentais de Estatística**
+
+* **População e Amostra:** Uma população é um conjunto completo de dados, enquanto uma amostra é um subconjunto da população usado para fazer inferências sobre a população inteira.
+* **Variáveis:** Variáveis são características ou propriedades que variam entre os indivíduos em uma população ou amostra. As variáveis podem ser qualitativas (não numéricas) ou quantitativas (numéricas).
+* **Parâmetros e Estatísticas:** Os parâmetros descrevem as características da população, enquanto as estatísticas descrevem as características da amostra. Por exemplo, a média é um parâmetro da população, enquanto a média amostral é uma estatística.
+* **Distribuições de Probabilidade:** As distribuições de probabilidade descrevem a probabilidade de ocorrências diferentes em uma população. Exemplos comuns incluem a distribuição normal e a distribuição binomial.
+* **Amostragem:** A amostragem é o processo de selecionar uma amostra representativa da população. Técnicas comuns de amostragem incluem amostragem aleatória simples e amostragem estratificada.
+* **Estimativa:** A estimativa é o processo de usar uma amostra para fazer inferências sobre a população. Por exemplo, podemos usar a média amostral para estimar a média da população.
+* **Hipóteses:** As hipóteses são declarações sobre as características da população. Por exemplo, podemos ter a hipótese de que a média da população é igual a um determinado valor.
+* **Teste de Hipóteses:** Os testes de hipóteses são procedimentos estatísticos usados para avaliar se as hipóteses sobre a população são válidas.
+
+Estas noções fundamentais formam a base da compreensão e aplicação dos métodos estatísticos.
+
+Item do edital: População em estatística::
+**População em Estatística**
+
+**Definição:**
+* Um conjunto completo de todos os elementos ou indivíduos com características específicas que são objeto de estudo.
+
+**Tipos de População:**
+* **População Finita:** Possui um número finito de elementos.
+* **População Infinita:** Possui um número infinito de elementos.
+
+**Amostra:**
+* Um subconjunto representativo da população selecionado para estudo.
+
+**Parâmetros da População:**
+* Valores numéricos que descrevem a população inteira. Exemplos: média, mediana, variância.
+
+**Medidas Amostrais:**
+* Estimativas dos parâmetros da população obtidas a partir de uma amostra. Exemplos: média amostral, mediana amostral, variância amostral.
+
+**Erro de Amostragem:**
+* Diferença entre os valores dos parâmetros da população e suas estimativas amostrais.
+
+**Tamanho da Amostra:**
+* O número de elementos em uma amostra. Determinado com base no nível de confiança desejado e na margem de erro aceitável.
+
+**Amostragem Aleatória:**
+* Um método de seleção de amostras que garante que cada elemento da população tenha a mesma chance de ser selecionado.
+
+**Amostragem Sistemática:**
+* Um método de seleção de amostras que envolve selecionar elementos em intervalos regulares.
+
+**Amostragem Estratificada:**
+* Um método de seleção de amostras que divide a população em subgrupos (estratos) e seleciona amostras de cada estrato.
+
+**Amostragem por Conglomerados:**
+* Um método de seleção de amostras que divide a população em grupos (conglomerados) e seleciona amostras de cada grupo.
+
+Item do edital: Amostra em estatística.::
+**Amostragem em Estatística**
+
+**Conceito:**
+Amostragem é o processo de selecionar um subconjunto menor (amostra) de uma população maior para representar suas características.
+
+**Tipos de Amostragem:**
+
+* **Amostragem Aleatória Simples:** Cada indivíduo da população tem igual probabilidade de ser selecionado.
+* **Amostragem Sistemática:** Os indivíduos são selecionados em intervalos regulares de uma lista.
+* **Amostragem Estratificada:** A população é dividida em estratos (por exemplo, idade, sexo) e indivíduos são selecionados de cada estrato.
+* **Amostragem por Conglomerados:** Grupos de indivíduos (conglomerados) são selecionados aleatoriamente e todos os indivíduos dentro desses conglomerados são incluídos na amostra.
+
+**Tamanho da Amostra:**
+
+O tamanho da amostra afeta a precisão das estimativas estatísticas. Amostras maiores geralmente são mais precisas, mas também mais caras e demoradas para coletar.
+
+**Erros de Amostragem:**
+
+* **Erro Amostral:** A diferença entre o parâmetro populacional e a estimativa amostral.
+* **Margem de Erro:** O intervalo dentro do qual a estimativa amostral provavelmente cairá, com um determinado nível de confiança.
+
+**Importância da Amostragem:**
+
+A amostragem é essencial para:
+
+* Obter informações sobre uma população sem examiná-la inteira
+* Economizar tempo e recursos
+* Permitir estimativas estatísticas confiáveis
+
+Item do edital: Histogramas::
+**Histogramas**
+
+**Definição:**
+
+Um histograma é uma representação gráfica da distribuição de dados divididos em intervalos ou "bins". Ele exibe o número de ocorrências dentro de cada bin, permitindo a visualização da frequência e da distribuição dos dados.
+
+**Utilidades:**
+
+* **Visualização da distribuição:** Fornece uma imagem clara da distribuição geral dos dados, identificando se é normal, assimétrica ou multimodo.
+* **Comparações:** Permite comparar várias distribuições de dados, destacando semelhanças e diferenças.
+* **Análise de dados:** Pode ser usado para identificar padrões, outliers e tendências nos dados.
+* **Estimação de probabilidades:** A área sob uma parte do histograma representa a probabilidade de um valor cair dentro desse intervalo.
+
+**Construção de um histograma:**
+
+1. Dividir os dados em intervalos iguais (bins).
+2. Contar o número de ocorrências em cada bin.
+3. Plotar a contagem contra o centro ou borda de cada bin.
+
+**Características:**
+
+* Forma: Indica a distribuição dos dados (normal, assimétrica, multimodo).
+* Amplitude: A amplitude dos bins determina o nível de detalhamento do histograma.
+* Frequência: Representa o número de ocorrências dentro de cada bin.
+* Densidade: Uma linha de densidade suavizada pode ser sobreposta ao histograma para visualizar melhor a distribuição.
+
+**Limitações:**
+
+* A escolha dos intervalos de bin pode influenciar a forma do histograma.
+* Os histogramas podem não ser eficazes para dados com muitos outliers.
+* Podem fornecer menos informações do que outros gráficos, como gráficos de dispersão ou gráficos de barras.
+
+Item do edital: Curvas de frequência.::
+**Curvas de Frequência**
+
+As curvas de frequência são representações gráficas que mostram a distribuição dos valores de um conjunto de dados. São usadas para analisar a forma dos dados, identificar outliers e fazer inferências sobre a população da qual os dados foram amostrados.
+
+**Tipos de Curvas de Frequência:**
+
+* **Curva Normal (Gaussiana):** A distribuição normal é uma distribuição simétrica em forma de sino, com a maioria dos valores agrupados em torno da média.
+* **Curva Bimodal:** Uma curva bimodal tem dois picos, indicando que os dados são agrupados em dois grupos distintos.
+* **Curva Unimodal:** Uma curva unimodal tem um único pico, indicando que os dados são agrupados em torno de um valor central.
+* **Curva Distribuída Positivamente:** Uma curva distribuída positivamente é inclinada para a direita, com mais valores localizados na extremidade superior do intervalo.
+* **Curva Distribuída Negativamente:** Uma curva distribuída negativamente é inclinada para a esquerda, com mais valores localizados na extremidade inferior do intervalo.
+
+**Características das Curvas de Frequência:**
+
+* **Média:** O valor central dos dados.
+* **Mediana:** O valor que divide os dados ao meio.
+* **Moda:** O valor que ocorre com mais frequência.
+* **Desvio Padrão:** A medida da variabilidade dos dados.
+* **Coeficiente de Assimetria:** Uma medida do quão simétrica ou assimétrica a distribuição é.
+
+**Aplicações das Curvas de Frequência:**
+
+As curvas de frequência são usadas em vários campos, incluindo:
+
+* Estatística
+* Probabilidade
+* Psicologia
+* Ciência de Dados
+* Controle de Qualidade
+
+Item do edital: Princípios, conceitos e fórmulas de média::
+**Princípios de Média**
+
+* **Representatividade:** A média deve representar com precisão o conjunto completo de dados.
+* **Precisão:** A média deve ser próxima ao valor verdadeiro da população.
+* **Robustez:** A média não deve ser excessivamente influenciada por valores atípicos.
+
+**Conceitos de Média**
+
+* **Média Aritmética:** Soma de todos os valores dividida pelo número de valores.
+* **Média Ponderada:** Média calculada usando pesos atribuídos a cada valor.
+* **Mediana:** Valor que divide o conjunto de dados em duas metades iguais.
+* **Moda:** Valor mais frequente em um conjunto de dados.
+
+**Fórmulas de Média**
+
+* **Média Aritmética:** (x1 + x2 + ... + xn) / n
+* **Média Ponderada:** (w1 * x1 + w2 * x2 + ... + wn * xn) / (w1 + w2 + ... + wn)
+* **Mediana:** Ordenar os dados do menor para o maior e selecionar o valor do meio (ou média dos dois valores do meio em conjuntos de dados pares).
+* **Moda:** O valor mais frequente em um conjunto de dados.
+
+**Aplicações da Média**
+
+As médias são amplamente utilizadas em estatística e pesquisas para:
+
+* Resumir grandes conjuntos de dados
+* Fornecer uma indicação do valor típico
+* Fazer comparações entre grupos
+* Prever valores futuros
+
+Item do edital: Princípios, conceitos e fórmulas de moda::
+**Princípios da Moda:**
+
+* **Harmonia:** Criar equilíbrio e unidade entre elementos de vestuário, cores e padrões.
+* **Proporção:** Dividir o corpo em seções visualmente agradáveis.
+* **Ênfase:** Destacar certos elementos para chamar a atenção.
+* **Contraste:** Criar interesse visual usando diferenças de cores, texturas ou formas.
+* **Ritmo:** Repetir ou alternar elementos para criar movimento e fluidez.
+
+**Conceitos da Moda:**
+
+* **Estilo:** O caráter e a expressão pessoal únicos de um indivíduo através da moda.
+* **Tendência:** Estilos populares que prevalecem em um determinado período.
+* **Silhueta:** O contorno geral de uma vestimenta.
+* **Padrão:** Desenhos ou motivos repetidos em tecidos.
+* **Cor:** O elemento mais forte da moda, usado para criar efeitos emocionais e visuais.
+
+**Fórmulas da Moda:**
+
+* **Regra dos Terços:** Dividir o corpo em terços horizontal e verticalmente para posicionar elementos de vestuário harmoniosamente.
+* **Proporção Áurea:** Criar proporções esteticamente agradáveis usando uma proporção de aproximadamente 1:1,618.
+* **Triângulo de Estilo:** Categorizar tipos de corpo em triângulo invertido, triângulo reto, triângulo e ampulheta para escolher estilos de vestuário lisonjeiros.
+* **Equação de Cores:** Misturar cores para criar tons desejados e harmonia.
+* **Fórmula de Escala:** Aumentar ou diminuir o tamanho dos elementos de vestuário para criar equilíbrio e proporção.
+
+Item do edital: Princípios, conceitos e fórmulas de mediana::
+**Princípios da Mediana:**
+
+* Mediana é a medida de tendência central que divide um conjunto de dados ordenados em duas metades iguais.
+* A mediana é influenciada apenas pela posição dos elementos no conjunto de dados, não por seus valores.
+* A mediana é menos sensível a valores extremos do que a média.
+
+**Conceitos:**
+
+* **Mediana de uma amostra:** A mediana de uma amostra é o valor que divide a amostra ordenada em duas metades.
+* **Mediana de uma população:** A mediana de uma população é o valor que divide a população ordenada em duas metades.
+* **Intervalo interquartil:** O intervalo interquartil é a diferença entre o terceiro e o primeiro quartil, que dá uma ideia da variabilidade dos dados em torno da mediana.
+
+**Fórmulas:**
+
+**Para conjuntos de dados com número ímpar de elementos (n):**
+* Mediana = valor do elemento [(n+1)/2]
+
+**Para conjuntos de dados com número par de elementos (n):**
+* Mediana = (valor do elemento [n/2] + valor do elemento [(n/2)+1])/2
+
+Item do edital: Princípios, conceitos e fórmulas de separatrizes.::
+**Princípios de Separatrizes**
+
+* **Separação de Fases:** As separatrizes separam misturas em duas ou mais fases distintas com propriedades físicas diferentes (por exemplo, líquido, gás ou sólido).
+* **Equilíbrio entre Fases:** Quando uma mistura é separada em fases distintas, essas fases estão em equilíbrio quando suas composições e propriedades não mudam mais.
+* **Partição:** Os componentes de uma mistura se distribuem entre as fases separadas de acordo com suas afinidades relativas por essas fases.
+
+**Conceitos de Separatrizes**
+
+* **Coeficiente de Partição:** A razão das concentrações de um componente em duas fases separadas em equilíbrio.
+* **Fator de Separação:** A razão entre os coeficientes de partição de dois componentes em uma separatrize.
+* **Eficiência de Separação:** A medida da capacidade de uma separatriz em separar efetivamente duas misturas.
+
+**Fórmulas de Separatrizes**
+
+* **Lei de Distribuição:** C₁/C₂ = K, onde C₁ e C₂ são as concentrações de um componente nas fases 1 e 2, respectivamente, e K é o coeficiente de partição.
+* **Equação de Nernst:** E = E⁰ - (RT/nF)ln(Q), onde E é o potencial do eletrodo, E⁰ é o potencial do eletrodo padrão, R é a constante universal dos gases, T é a temperatura, n é o número de elétrons transferidos, F é a constante de Faraday e Q é o quociente de reação.
+* **Equação de Van't Hoff:** ln(P₁/P₂) = -(ΔHvap/R)(1/T₂ - 1/T₁), onde P₁ e P₂ são as pressões de vapor de um líquido nas temperaturas T₁ e T₂, respectivamente, ΔHvap é a entalpia de vaporização e R é a constante universal dos gases.
+
+Item do edital: Medidas de dispersão absoluta::
+**Medidas de Dispersão Absoluta**
+
+As medidas de dispersão absoluta medem a variação em termos de unidades absolutas. Elas indicam o quanto os dados estão espalhados em relação à média.
+
+**Desvio Médio**
+
+* A diferença absoluta média entre cada dado e a média.
+* É fácil de entender e calcular.
+* Não é sensível a outliers (valores extremos).
+
+**Variância**
+
+* A média quadrada das diferenças entre cada dado e a média.
+* É uma medida mais estável que o desvio médio.
+* Pode ser usada para comparar conjuntos de dados com unidades diferentes.
+
+**Desvio Padrão**
+
+* A raiz quadrada da variância.
+* Tem as mesmas unidades que os dados originais.
+* É comumente usada em testes estatísticos e inferências.
+
+**Importância**
+
+As medidas de dispersão absoluta são importantes porque:
+
+* Fornecem informações sobre a variabilidade dos dados.
+* Ajudam a identificar padrões e tendências.
+* São usadas para fazer comparações entre conjuntos de dados.
+* Podem indicar a necessidade de investigação adicional ou identificação de outliers.
+
+**Limitações**
+
+* Podem ser afetadas por outliers.
+* Não fornecem informações sobre a distribuição dos dados.
+
+Item do edital: Medidas de dispersão relativa.::
+**Medidas de Dispersão Relativa**
+
+As medidas de dispersão relativa fornecem informações sobre a variação de um conjunto de dados em relação à sua média. Elas são expressas em porcentagem ou proporção e permitem comparações entre conjuntos de dados ou variáveis com escalas diferentes.
+
+**Tipos de Medidas de Dispersão Relativa:**
+
+* **Coeficiente de Variação (CV):** Calculado como o desvio padrão dividido pela média. Ele mede a variação relativa em relação à média.
+* **Intervalo Interquartilrelativo (IQR):** Calculado como a diferença entre o terceiro quartil (Q3) e o primeiro quartil (Q1). Ele representa a variação entre os 50% médios dos dados.
+* **Desvio Médio Absoluto (MDA):** Calculado como a média das diferenças absolutas entre cada ponto de dados e a média. Ele mede a variação em relação à média, dando mais peso aos dados extremos.
+* **Razão Intervalar:** Calculada como a diferença entre o valor máximo e o valor mínimo dividida pelo valor máximo. Ela mede a faixa da variação em relação ao valor máximo.
+* **Proporção de Dados na Cauda:** Calculada como a proporção de pontos de dados que estão além de um determinado número de desvios padrão da média. Ele indica o grau de dispersão nos dados.
+
+**Usos das Medidas de Dispersão Relativa:**
+
+* Comparar a variação entre diferentes conjuntos de dados
+* Avaliar a confiabilidade ou precisão das medidas
+* Identificar outliers ou valores extremos
+* Fazer previsões e tomar decisões informadas
+
+É importante observar que a escolha da medida de dispersão relativa apropriada depende dos dados específicos e do propósito da análise.
+
+Item do edital: Probabilidade condicional::
+**Probabilidade Condicional**
+
+A probabilidade condicional, denotada por P(A|B), é a probabilidade de um evento A ocorrer dado que outro evento B já ocorreu. Ela é calculada por:
+
+```
+P(A|B) = P(A ∩ B) / P(B)
+```
+
+onde:
+
+* P(A ∩ B) é a probabilidade da ocorrência conjunta dos eventos A e B
+* P(B) é a probabilidade de ocorrência do evento B
+
+**Propriedades da Probabilidade Condicional:**
+
+* **Não negatividade:** P(A|B) ≥ 0
+* **Aditividade:** Para eventos mutuamente exclusivos A1, A2, ..., An,
+```
+P(A1 ∪ A2 ∪ ... ∪ An | B) = P(A1 | B) + P(A2 | B) + ... + P(An | B)
+```
+* **Independência:** Se A e B são eventos independentes, então
+```
+P(A|B) = P(A)
+```
+
+**Aplicações da Probabilidade Condicional:**
+
+* Teorema de Bayes: usado para atualizar as probabilidades das hipóteses à luz de novas evidências
+* Aprendizado de máquina: para calcular a probabilidade de uma classe dada uma instância
+* Testes diagnósticos: para calcular a probabilidade de uma doença dada a presença de sintomas
+
+Item do edital: Independência na probabilidade condicional.::
+**Independência na Probabilidade Condicional**
+
+Em probabilidade, dois eventos são independentes se a probabilidade de ocorrência de um não afeta a probabilidade do outro. Quando aplicamos a probabilidade condicional, temos:
+
+**Definição:** Dois eventos A e B são independentes condicionados a um terceiro evento C se:
+
+```
+P(A|C) = P(A)
+```
+
+Isso significa que a probabilidade de A ocorrer, dado que C ocorreu, é a mesma que a probabilidade incondicional de A.
+
+**Implicações:**
+
+* Se A e B são independentes condicionados a C, então eles também são independentes incondicionalmente.
+* Se A e B são independentes incondicionalmente, eles não necessariamente são independentes condicionados a C.
+
+**Exemplo:**
+
+Vamos considerar um baralho de 52 cartas. Vamos definir:
+
+* A = Evento de tirar uma carta de copas.
+* B = Evento de tirar uma carta de rei.
+* C = Evento de tirar a primeira carta do baralho.
+
+A priori, A e B são independentes, pois a probabilidade de tirar uma carta de copas é de 13/52 e a probabilidade de tirar um rei é de 4/52.
+
+No entanto, se condicionarmos a C, eles se tornam dependentes:
+
+```
+P(A|C) = P(A) = 13/52
+P(B|C) ≠ P(B) = 4/52
+```
+
+Isso ocorre porque a primeira carta do baralho é fixada, o que reduz o número de cartas restantes e, portanto, afeta a probabilidade de tirar um rei.
+
+Item do edital: Variável aleatória::
+**Variável Aleatória**
+
+Uma variável aleatória é uma função que mapeia os resultados de um experimento aleatório para os números reais. Ela representa um valor que é incerto e varia de acordo com o resultado do experimento.
+
+**Tipos de Variáveis Aleatórias**
+
+* **Discretas:** Assumem valores específicos e contáveis.
+* **Contínuas:** Podem assumir qualquer valor dentro de um intervalo.
+
+**Características de Variáveis Aleatórias**
+
+* **Função de Probabilidade:** Define a probabilidade de cada valor possível da variável aleatória.
+* **Função de Distribuição Acumulada:** Dá a probabilidade de que a variável aleatória assuma um valor menor ou igual a um determinado número.
+* **Valor Esperado:** A média ou valor médio da variável aleatória.
+* **Variância:** Mede a dispersão dos dados em relação ao valor esperado.
+
+**Distribuições Comuns de Variáveis Aleatórias**
+
+* **Binomial:** Modela o número de sucessos em um número fixo de tentativas independentes.
+* **Poisson:** Modela o número de ocorrências de um evento em um intervalo fixo de tempo ou espaço.
+* **Normal (Gaussiana):** Modela dados contínuos com uma distribuição em forma de sino.
+* **Exponencial:** Modela o tempo até que um evento ocorra.
+
+**Aplicações das Variáveis Aleatórias**
+
+* Inferência estatística
+* Teoria da probabilidade
+* Modelagem de processos estocásticos
+* Análise de risco
+* Estatística bayesiana
+
+Item do edital: Função de distribuição uniforme.::
+**Função de Distribuição Uniforme**
+
+Uma função de distribuição uniforme distribui uniformemente a probabilidade ao longo de um intervalo ou conjunto específico. É denotada por \(U(a, b)\), onde \(a\) e \(b\) são os limites inferior e superior do intervalo.
+
+**Características:**
+
+* Toda a probabilidade está distribuída uniformemente entre \(a\) e \(b\).
+* A função de densidade de probabilidade é constante dentro do intervalo: \(f(x) = \frac{1}{b-a}\) para \(a \leq x \leq b\)
+* A probabilidade de encontrar um valor dentro de um subintervalo \([c, d]\) é igual ao comprimento do subintervalo dividido pelo comprimento do intervalo original: \(P(c \leq X \leq d) = \frac{d-c}{b-a}\)
+
+**Aplicações:**
+
+* Modelar variáveis aleatórias que podem assumir qualquer valor dentro de um intervalo especificado com igual probabilidade.
+* Simulações Monte Carlo
+* Análise de confiabilidade
+* Modelagem de tempos de espera
+
+**Exemplos:**
+
+* Lançar um dado: A probabilidade de cada face aparecer é 1/6, pois \(X \sim U(1, 6)\).
+* Tempo de chegada de clientes a uma loja: Se os clientes podem chegar a qualquer momento dentro de um período de 60 minutos, o tempo de chegada \(X\) segue \(X \sim U(0, 60)\).
+
+Item do edital: Função de distribuição normal::
+**Função de Distribuição Normal**
+
+**Definição:**
+
+A função de distribuição normal (também conhecida como distribuição gaussiana) é uma função matemática que descreve a distribuição de uma variável aleatória que segue uma distribuição normal. É representada por:
+
+```
+f(x) = (1 / √(2πσ²)) * e^(-(x-μ)² / (2σ²))
+```
+
+onde:
+
+* μ é a média da distribuição
+* σ² é a variância da distribuição
+* π é a constante pi
+
+**Propriedades:**
+
+* A distribuição é simétrica em torno da média μ.
+* A área sob a curva é igual a 1.
+* 68,27% dos valores estão dentro de um desvio padrão da média (μ ± σ).
+* 95,45% dos valores estão dentro de dois desvios padrões da média (μ ± 2σ).
+* 99,73% dos valores estão dentro de três desvios padrões da média (μ ± 3σ).
+
+**Aplicações:**
+
+* Modelagem de dados que seguem uma distribuição normal (por exemplo, altura, peso, testes padronizados).
+* Inferência estatística (por exemplo, testes de hipóteses, intervalos de confiança).
+* Modelagem financeira (por exemplo, distribuição de retornos de ações).
+* Processos de fabricação (por exemplo, controle de qualidade).
+
+**Características Principais:**
+
+* **Forma de Sino:** A distribuição normal tem forma de sino, com um pico na média e decaindo gradualmente em ambos os lados.
+* **Distribuição Contínua:** A distribuição normal é uma distribuição contínua, o que significa que pode assumir qualquer valor real.
+* **Curva Simétrica:** A distribuição é simétrica, o que significa que os valores à esquerda e à direita da média têm a mesma probabilidade de ocorrer.
+* **Distribuição Normal Padrão:** A distribuição normal padrão tem μ = 0 e σ = 1.
+
+Item do edital: Função de distribuição exponencial::
+**Função de Distribuição Exponencial**
+
+**Definição:**
+A função de distribuição exponencial modela o tempo decorrido até que um evento ocorra com uma taxa constante λ. É dada pela seguinte equação:
+
+```
+F(x) = 1 - e^(-λx) para x ≥ 0
+```
+
+onde:
+* x é o tempo decorrido
+* λ é a taxa do evento
+
+**Características:**
+* **Sem memória:** O tempo restante até o evento é independente do tempo já decorrido.
+* **Taxa constante:** A probabilidade de ocorrência do evento por unidade de tempo é constante.
+* **Valores suportados:** x ≥ 0
+
+**Propriedades:**
+* **Função de densidade de probabilidade:** f(x) = λe^(-λx)
+* **Média:** μ = 1/λ
+* **Variância:** σ² = 1/λ²
+* **Mediana:** ln(2)/λ
+* **Modo:** 0
+
+**Aplicações:**
+* Tempo de falha de componentes
+* Tempo de espera entre chegadas
+* Duração de chamadas telefônicas
+* Tempo de vida útil de produtos eletrônicos
+
+Item do edital: Função de distribuição binomial::
+**Função de Distribuição Binomial**
+
+A Função de Distribuição Binomial (FDB) é uma distribuição de probabilidade discreta que descreve o número de sucessos em um experimento binomial com um número fixo de tentativas e uma probabilidade constante de sucesso em cada tentativa.
+
+**Parâmetros:**
+
+* n: número de tentativas
+* p: probabilidade de sucesso em cada tentativa
+
+**Definição:**
+
+A FDB é dada por:
+
+```
+P(X = k) = (n choose k) * p^k * q^(n-k)
+```
+
+onde:
+
+* k é o número de sucessos
+* (n choose k) é o número de combinações de n elementos tomados k de cada vez
+* q = 1 - p
+
+**Características:**
+
+* **Discreta:** Assome valores inteiros não negativos.
+* **Média:** E(X) = np
+* **Variância:** Var(X) = npq
+* **Desvio padrão:** σ = √(npq)
+* **Forma em sino:** Para n grande e p próximo de 0,5, a distribuição se aproxima de uma distribuição normal.
+
+**Aplicações:**
+
+A FDB é usada em várias aplicações, incluindo:
+
+* Modelar o número de acertos em um jogo de cara ou coroa
+* Prever o número de clientes que visitam uma loja em um determinado dia
+* Estimar o número de defeitos em um lote de produtos
+
+Item do edital: Função de distribuição gama::
+**Função de Distribuição Gama**
+
+A função de distribuição gama é uma distribuição de probabilidade contínua que descreve o tempo até ocorrência de um determinado número de eventos. Ela é frequentemente usada em modelagem de tempo de vida e análise de confiabilidade.
+
+**Parâmetros:**
+
+* α (forma): Controla a forma da distribuição.
+* β (escala): Controla a escala da distribuição.
+
+**Função de Densidade de Probabilidade (PDF):**
+
+```
+f(x; α, β) = (x^(α-1) / Γ(α)) * (β^α / e^(βx))
+```
+
+onde Γ(α) é a função gama.
+
+**Propriedades:**
+
+* **Média:** μ = αβ
+* **Variância:** σ² = αβ²
+* **Moda:** x* = (α - 1) / β para α > 1
+* **Mediana:** Não tem solução analítica exata
+* **Função Hazard:** h(x) = α/β
+
+**Aplicações:**
+
+* Análise de tempo de vida de componentes
+* Modelagem de tempos de espera entre eventos
+* Análise de confiabilidade de sistemas
+* Modelagem de distribuição de tamanhos de partículas
+
+**Restrições:**
+
+* α > 0 (forma)
+* β > 0 (escala)
+
+Item do edital: Função de distribuição qui-quadrado::
+**Função de Distribuição Qui-Quadrado**
+
+A função de distribuição qui-quadrado (χ²) é uma distribuição de probabilidade contínua usada para testar a adequação de um modelo a dados observados ou para testar hipóteses sobre a variância de uma população normal.
+
+**Características:**
+
+* **Forma:** Positivamente enviesada para a direita.
+* **Parâmetro:** Número de graus de liberdade (ν).
+* **Densidade de probabilidade:**
+
+```
+f(x; ν) = (1/Γ(ν/2) * 2^(ν/2)) * x^(ν/2 - 1) * e^(-x/2)
+```
+
+onde Γ é a função gama.
+
+**Propriedades:**
+
+* Média: ν
+* Variância: 2ν
+* Valor esperado: ν
+* Moda: (ν - 2), se ν > 2
+
+**Aplicações:**
+
+* **Teste de adequação:** Para testar se uma amostra se encaixa em uma distribuição teórica específica.
+* **Teste de independência:** Para testar se duas variáveis categóricas são independentes.
+* **Teste de variância:** Para testar se a variância de uma população normal é igual a um valor especificado.
+
+**Outros Tópicos:**
+
+* **Distribuição qui-quadrado com ν graus de liberdade:** Refere-se a uma distribuição qui-quadrado específica com o número especificado de graus de liberdade.
+* **Aproximação da distribuição normal:** Para valores grandes de ν, a distribuição qui-quadrado se aproxima da distribuição normal.
+* **Distribuição não central do qui-quadrado:** Uma distribuição qui-quadrado com um parâmetro adicional que representa um desvio da distribuição normal.
+
+Item do edital: Função de distribuição t de student::
+**Função de Distribuição t de Student**
+
+**Definição:**
+A função de distribuição t de Student, também conhecida como distribuição t, é uma distribuição de probabilidade contínua que surge em testes de hipóteses quando a variância da população é desconhecida.
+
+**Propriedades:**
+
+* **Forma:** Simétrica em torno de 0.
+* **Graus de liberdade:** ν, que determina o formato da distribuição.
+* **Média:** 0 para ν > 1.
+* **Variância:** ν / (ν - 2) para ν > 2.
+
+**Aplicações:**
+
+A distribuição t tem várias aplicações estatísticas, incluindo:
+
+* **Testes de hipóteses:** Testes para média populacional desconhecida.
+* **Intervalos de confiança:** Construindo intervalos de confiança para médias populacionais.
+* **Regressão linear:** Testes para a significância dos coeficientes de regressão.
+
+**Vantagens:**
+
+* Robusta a pequenas violações das suposições de normalidade.
+* Flexível, pois a forma varia com os graus de liberdade.
+
+**Desvantagens:**
+
+* Não é uma distribuição normal padrão.
+* Pode ser complexa de calcular para grandes graus de liberdade.
+
+**Área sob a curva:**
+
+A área sob a curva da distribuição t é 1, independentemente dos graus de liberdade. A área na cauda da distribuição diminui com o aumento dos graus de liberdade.
+

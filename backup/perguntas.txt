@@ -168,3 +168,35 @@ Kanban.
 Scrum.  
 Governança de Dados.  
 ITIL v4.
+
+
+
+Raciocínio lógico.  
+Estruturas lógicas.  
+Analogias, inferências, deduções e conclusões como argumentação lógica  
+Lógica sentencial (ou proposicional).  
+Proposições lógicas simples 
+Proposições lógicas compostas.  
+Equivalências lógicas.  
+Leis de Morgan  
+Noções de estatística.  
+População em estatística
+Amostra em estatística.  
+Histogramas 
+Curvas de frequência.  
+Princípios, conceitos e fórmulas de média
+Princípios, conceitos e fórmulas de moda
+Princípios, conceitos e fórmulas de mediana
+Princípios, conceitos e fórmulas de separatrizes.  
+Medidas de dispersão absoluta 
+Medidas de dispersão relativa.  
+Probabilidade condicional
+Independência na probabilidade condicional.  
+Variável aleatória 
+Função de distribuição uniforme. 
+Função de distribuição normal
+Função de distribuição exponencial
+Função de distribuição binomial
+Função de distribuição gama
+Função de distribuição qui-quadrado
+Função de distribuição t de student

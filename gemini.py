@@ -36,7 +36,7 @@ def gerar_respostas(arquivo_perguntas_name, arquivo_respostas_name):
             print(f"Gerando pergunta {indice} de {total_linhas}: {pergunta}")
     
             with io.open(arquivo_para_gravar, 'a', encoding='utf-8') as arquivo_respostas:
-                prompt_parts[0] = f"input: Discorra de forma concisa sobre tópicos envolvendo {pergunta.strip()}."
+                prompt_parts[0] = f"input: Elabore 20 afirmativas verdadeiras conforme padrão de provas do CESPE/CEBRASPE sobre {pergunta.strip()}."
                 response = model.generate_content(prompt_parts)            
                 arquivo_respostas.write(f"Item do edital: {pergunta.strip()}::\n{response.text.strip()}\n\n")            
                 #arquivo_respostas.write(f"Item do edital: {pergunta}\n response.text.strip()\n\n")            

@@ -1,0 +1,105 @@
+Item do edital: Raciocínio lógico.::
+**Afirmativas Verdadeiras sobre Raciocínio Lógico conforme o Padrão de Provas do CESPE/CEBRASPE:**
+
+1. O raciocínio dedutivo permite inferir conclusões que são necessariamente verdadeiras a partir de premissas verdadeiras.
+2. O raciocínio indutivo permite inferir conclusões prováveis, mas não necessariamente verdadeiras, a partir de premissas observacionais.
+3. Um silogismo é um argumento dedutivo composto por duas premissas e uma conclusão.
+4. A generalização é uma forma de indução que parte de uma observação particular para fazer uma afirmação geral.
+5. O argumento por analogia compara duas situações semelhantes para inferir conclusões sobre uma delas.
+6. O raciocínio abdutivo é um tipo de raciocínio que busca a melhor explicação possível para uma observação.
+7. Uma falácia é um raciocínio inválido que apresenta uma conclusão sem suporte adequado nas premissas.
+8. O teste de tabelas-verdade permite determinar a validade de argumentos proposicionais.
+9. A lógica formal é um sistema que representa e analisa raciocínios usando símbolos e regras.
+10. A lógica aplicada usa princípios lógicos para resolver problemas práticos em diversos campos.
+
+Item do edital: Estruturas lógicas.::
+**Afirmativas Verdadeiras Conforme o Padrão de Provas do CESPE/CEBRASPE sobre Estruturas Lógicas**
+
+1. Uma proposição simples é uma proposição que não pode ser decomposta em proposições menores.
+2. O conectivo "e" é uma conjunção que representa a operação lógica da multiplicação.
+3. O conectivo "ou" é uma disjunção exclusiva quando ocorre a exclusão mútua dos operandos.
+4. A negação de uma proposição verdadeira é falsa, e vice-versa.
+5. Uma tautologia é uma fórmula lógica que é sempre verdadeira, independentemente dos valores de verdade de seus operandos.
+6. Um silogismo é um argumento lógico composto por duas premissas e uma conclusão.
+7. A primeira figura do silogismo é aquela em que o termo médio é sujeito da premissa maior e predicado da premissa menor.
+8. Um argumento válido é aquele em que a conclusão decorre logicamente das premissas.
+9. Uma falácia é um argumento que parece válido, mas não é.
+10. A forma lógica de um argumento é a sua estrutura abstrata, independentemente do seu conteúdo.
+
+Item do edital: Analogias, inferências, deduções e conclusões como argumentação lógica::
+**Analogias**
+
+1. O romance é para a prosa o que o soneto é para a poesia.
+2. A pintura é para a tela o que a música é para o pentagrama.
+
+**Inferências**
+
+3. Se todos os cães são mamíferos, e todos os mamíferos têm pelos, então todos os cães têm pelos.
+4. Se não está chovendo, o chão não está molhado.
+
+**Deduções**
+
+5. Todas as aves têm asas. Cisnes são aves. Portanto, cisnes têm asas.
+6. Todos os diamantes são brilhantes. Esta pedra é um diamante. Portanto, esta pedra é brilhante.
+
+**Conclusões como Argumentação Lógica**
+
+7. A taxa de criminalidade aumentou nos últimos anos. Portanto, o governo precisa implementar medidas mais rigorosas para garantir a segurança pública.
+8. Os estudos científicos mostraram que fumar é prejudicial à saúde. Como cidadãos responsáveis, devemos promover campanhas antitabagistas.
+9. A pesquisa de mercado indica que o produto X tem alta demanda. Consequentemente, é uma decisão comercial sábia investir na sua produção.
+10. Os dados estatísticos revelam que as mulheres são sub-representadas em posições de liderança. Portanto, são necessárias medidas para promover a igualdade de gênero no local de trabalho.
+
+Item do edital: Lógica sentencial (ou proposicional).::
+**Afirmativas Verdadeiras sobre Lógica Sentencial**
+
+1. Uma proposição composta é verdadeira se e somente se todas as suas proposições componentes forem verdadeiras.
+2. A forma proposicional da afirmação "Se está chovendo, então o chão está molhado" é "P → Q".
+3. Duas proposições são logicamente equivalentes se e somente se tiverem os mesmos valores verdade.
+4. A constante lógica "F" representa uma proposição falsa.
+5. A lei da Distributividade da Conjunção sobre a Disjunção afirma que P ∧ (Q ∨ R) é logicamente equivalente a (P ∧ Q) ∨ (P ∧ R).
+6. A lei do Silogismo afirma que se P → Q e Q → R, então P → R.
+7. Um argumento válido é aquele em que as premissas implicam logicamente a conclusão.
+8. A falácia da afirmação do consequente ocorre quando se infere P → Q de Q.
+9. O operador lógico "∨" é comutativo, ou seja, P ∨ Q é logicamente equivalente a Q ∨ P.
+10. Uma tabela verdade é uma tabela que mostra todos os valores verdade possíveis para uma determinada proposição composta e suas proposições componentes.
+
+Item do edital: Proposições lógicas simples::
+**Afirmativas Verdadeiras sobre Proposições Lógicas Simples:**
+
+1. Uma proposição é uma afirmação que pode ser classificada como verdadeira ou falsa.
+2. A negação de uma proposição é sempre uma proposição.
+3. A conjunção de duas proposições é verdadeira se e somente se ambas as proposições forem verdadeiras.
+4. A disjunção de duas proposições é falsa se e somente se ambas as proposições forem falsas.
+5. O condicional é verdadeiro se e somente se o antecedente for falso ou o consequente for verdadeiro.
+6. A bicondicional é verdadeira se e somente se ambas as proposições tiverem o mesmo valor de verdade.
+7. A lei da identidade afirma que toda proposição é equivalente a si mesma.
+8. A lei da não contradição afirma que nenhuma proposição pode ser verdadeira e falsa ao mesmo tempo.
+9. A lei do terceiro excluído afirma que toda proposição é verdadeira ou falsa, não havendo terceira possibilidade.
+10. O silogismo hipotético é válido se e somente se a primeira premissa for verdadeira e a conclusão for deduzida corretamente das premissas.
+
+Item do edital: Proposições lógicas compostas.::
+**Afirmativas Verdadeiras sobre Proposições Lógicas Compostas**
+
+1. Uma proposição composta é formada pela conexão de duas ou mais proposições simples usando conectivos lógicos.
+2. Os conectivos lógicos mais comuns são a conjunção (∧), a disjunção (∨), a implicação (→) e a equivalência (↔).
+3. A tabela verdade da conjunção mostra que ela é verdadeira apenas quando ambas as proposições simples são verdadeiras.
+4. A tabela verdade da disjunção mostra que ela é falsa apenas quando ambas as proposições simples são falsas.
+5. A implicação é verdadeira sempre que a premissa (antecedente) for falsa, independentemente da verdade da conclusão (consequente).
+6. A equivalência é verdadeira apenas quando as proposições simples têm o mesmo valor de verdade (ambas verdadeiras ou ambas falsas).
+7. A lei de De Morgan afirma que a negação de uma conjunção é equivalente à disjunção das negações, e vice-versa.
+8. A lei da distribuição afirma que a conjunção de uma disjunção é distributiva sobre a disjunção e vice-versa.
+9. As proposições tautológicas são aquelas que são sempre verdadeiras, independentemente dos valores de verdade das proposições simples.
+10. As proposições contraditórias são aquelas que são sempre falsas, independentemente dos valores de verdade das proposições simples.
+
+Item do edital: Equivalências lógicas.::
+1. A implicação "se p, então q" é equivalente à disjunção "-p ou q".
+2. A conjunção "p e q" é equivalente à negação da disjunção "-p ou -q".
+3. A disjunção "p ou q" é equivalente à negação da conjunção "-p e -q".
+4. A equivalência "p se e somente se q" é equivalente à conjunção "(p implica q) e (q implica p)".
+5. A equivalência "p se e somente se q" é equivalente à bicondicional "(p e q) ou (-p e -q)".
+6. A implicação "-p implica q" é equivalente à disjunção "p ou q".
+7. A conjunção "-p e -q" é equivalente à negação da disjunção "p ou q".
+8. A disjunção "-p ou -q" é equivalente à negação da conjunção "p e q".
+9. A negação da disjunção "-p ou q" é equivalente à conjunção "p e q".
+10. A negação da conjunção "-p e -q" é equivalente à disjunção "p ou q".
+
